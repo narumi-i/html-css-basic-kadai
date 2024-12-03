@@ -121,7 +121,7 @@ SP用のスタイル
     color: #ffffff;
     text-decoration: underline;
   }
-  #nav-sp a:hover {
+  #nav-sp a:active {
     color: #ffffff;
   }
   #nav-sp .menu {
