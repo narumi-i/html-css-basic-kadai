@@ -98,6 +98,7 @@ SP用のスタイル
   #nav-sp li {
     list-style: none;
   }
+
   /*Xボタン*/
   #close {
     position: absolute;
@@ -107,6 +108,9 @@ SP用のスタイル
   /*ナビゲーションメニュー用ロゴ*/
   #logo-sp {
     margin: 80px 0px 30px 20px;
+  }
+  #nav-sp li:nth-child(3) {
+    padding: 20px;
   }
   #nav-sp a {
     display: block;
